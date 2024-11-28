@@ -24,20 +24,20 @@ author:
   avatar           : "profile.png"
   name             : "Theo Schutt"
   pronouns         : "they/them"  
-  bio              : "PhD candidate and NSF Graduate Research Fellow @ Stanford University & SLAC National Lab"
-  location         : # ""
-  employer         : # ""
+  bio              : "Physics PhD candidate\NSF Graduate Research Fellow"
+  location         : #
+  employer         : "[Stanford University](https://www.stanford.edu/) & [SLAC National Lab](https://www6.slac.stanford.edu/)"
   uri              : # URL
   email            : "schutt20@stanford.edu"
 
   # Academic websites
   ads              : "https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-7187-9628&sort=date%20desc%2C%20bibcode%20desc"
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL
+  googlescholar    : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7187-9628"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
