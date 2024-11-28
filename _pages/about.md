@@ -16,4 +16,4 @@ Under construction :)
 
 [Publications on ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-7187-9628&sort=date%20desc%2C%20bibcode%20desc)
 
-[CV](https://github.com/theoschutt/theoschutt.github.io/blob/master/files/CV_public_20241127.pdf) (updated Nov 27, 2024)
+[CV](theoschutt.github.io/files/CV_public_20241127.pdf) (updated Nov 27, 2024)
