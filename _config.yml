@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Theo Schutt"
-  pronouns         : "they/them"  
-  bio              : "Physics PhD candidate<br>NSF Graduate Research Fellow"
+  pronouns         : "(they/them)"  
+  bio              : "Physics PhD candidate &<br>NSF Graduate Research Fellow"
   location         : #
-  employer         : "Stanford University &<br>SLAC National Lab"
+  employer         : # "Stanford University &<br>SLAC National Lab"
   uri              : # URL
   email            : "schutt20@stanford.edu"
 
