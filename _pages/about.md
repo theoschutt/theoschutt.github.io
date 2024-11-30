@@ -13,9 +13,9 @@ Hi, my name is Theo Schutt. I am a Physics PhD candidate and NSF Graduate Resear
 Research
 ------
 Under construction :)
-
+<button class="btn">Info</button>
 <button name="cv" onclick="https://theoschutt.github.io/files/CV_public_20241127.pdf">CV</button>
 <button name="ads" onclick="https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-7187-9628&sort=date%20desc%2C%20bibcode%20desc">My publications on ADS</button>
 
-[Publications on ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-7187-9628&sort=date%20desc%2C%20bibcode%20desc)
-[CV](https://theoschutt.github.io/files/CV_public_20241127.pdf) (updated Nov 27, 2024)
+[Publications on ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-7187-9628&sort=date%20desc%2C%20bibcode%20desc)(#Buttons){: .btn}
+[CV](https://theoschutt.github.io/files/CV_public_20241127.pdf)(#Buttons){: .btn} (updated Nov 27, 2024)
