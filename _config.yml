@@ -21,7 +21,7 @@ repository               : "theoschutt/theoschutt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_gh.png"
+  avatar           : "profile_gh.jpg"
   name             : "Theo Schutt"
   pronouns         : "(they/them)"  
   bio              : "Physics PhD candidate &<br>NSF Graduate Research Fellow"
