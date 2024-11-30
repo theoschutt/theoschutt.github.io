@@ -156,7 +156,7 @@
   margin-bottom: 0.25em;
   padding: 0.25em 0.50em;
   color: #fff;
-  background-color: $link-color !important;
+  background-color: $link-color;
   text-align: center;
   text-decoration: none !important;
   border: 1px solid;
@@ -165,7 +165,7 @@
   cursor: pointer;
 
   &:hover {
-    color: $link-color !important;
+    color: $link-color;
     background-color: #fff;
   }
 }
