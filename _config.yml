@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : "-"
+title                    : "Theo Schutt"
+title_separator          : "|"
 name                     : &name "Theo Schutt"
 description              : &description "personal website"
 url                      : https://theoschutt.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -22,11 +22,11 @@ repository               : "theoschutt/theoschutt.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Theo Schutt"
+  name             : # "Theo Schutt"
   pronouns         : "(they/them)"  
   bio              : "Physics PhD candidate &<br>NSF Graduate Research Fellow"
   location         : #
-  employer         : # "Stanford University &<br>SLAC National Lab"
+  employer         : "Stanford University"
   uri              : # URL
   email            : "schutt20@stanford.edu"
 
