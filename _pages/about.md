@@ -18,6 +18,6 @@ As a member of several large science collaborations, I am keen to work at the in
 Previously, I completed my undergraduate studies at Columbia University in 2020, where I worked on galactic X-ray astrophysics and detector R&D for the indirect dark matter detection experiment, GAPS.
 
 [Download CV&ensp;<i class="fa-solid fa-file-pdf"></i>](https://theoschutt.github.io/files/TSchutt_CV_public_20251112.pdf){: .btn--general}
-(updated Nov 2024)
+(updated Nov 2025)
   &emsp;&emsp;&emsp;
 [Publications on ADS&ensp;<i class="fa-solid fa-arrow-up-right-from-square"></i>](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-7187-9628&sort=date%20desc%2C%20bibcode%20desc){: .btn--general}
